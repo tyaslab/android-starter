@@ -1,4 +1,4 @@
-# android-hello
+# android-starter
 A Starter Android Project using Gradle
 
-This starter project is Hello. Please rename Hello with your project name, and please rename domain (com.example.hello) to fit yours.
+The name of this project is Starter. Please rename Starter with your project name, and also rename domain (com.example.starter) to fit yours.
